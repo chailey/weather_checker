@@ -5,4 +5,4 @@ python:
 install:
   - pip install requests 
 script: 
-  - python weather_checker.py 
+  - python weather_check_unittest.py 
