@@ -1,6 +1,8 @@
 import requests
 import time
 
+
+
 def weather_checker_normal():
 
     loc = input("Where are you?")
@@ -85,5 +87,3 @@ def test():
     print('\n')
     print('\n')
     print("Testing complete")
-
-test()
